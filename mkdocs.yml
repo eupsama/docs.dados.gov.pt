@@ -6,4 +6,4 @@ theme: readthedocs
 
 pages:
     - Home: index.md
-    - Reuse: 'docs/reuse.md'
+    - Reuse: reuse.md

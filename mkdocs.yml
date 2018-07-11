@@ -5,4 +5,4 @@ site_author: AMA
 theme: readthedocs
 
 pages:
-- Home: README.md
+    - Home: README.md

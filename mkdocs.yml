@@ -5,5 +5,5 @@ site_author: AMA
 theme: readthedocs
 
 pages:
-    - Home: README.md
+    - Home: index.md
     - Reuse: 'docs/reuse.md'

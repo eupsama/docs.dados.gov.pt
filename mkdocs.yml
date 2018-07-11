@@ -8,4 +8,4 @@ pages:
     - Home: readme.md
     - Reuse: reuse.md
 docs/
-    - README.md
+    README.md

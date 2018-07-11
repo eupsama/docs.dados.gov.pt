@@ -7,3 +7,5 @@ theme: readthedocs
 pages:
     - Home: readme.md
     - Reuse: reuse.md
+docs/
+    - README.md

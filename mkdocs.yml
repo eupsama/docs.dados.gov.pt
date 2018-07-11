@@ -1,0 +1,8 @@
+site_name: Documentação DadosGov+
+site_description: uData Open Data Portal Documentation
+site_author: AMA
+
+theme: readthedocs
+
+pages:
+- Home: README.md
